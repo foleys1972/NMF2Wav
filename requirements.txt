@@ -1,0 +1,13 @@
+# NMF to WAV Converter - Dependencies
+# Core dependencies
+PyQt5>=5.15.0
+pyinstaller>=5.0.0
+
+# File handling
+pathlib>=1.0.1
+
+# Configuration
+configparser>=5.0.0
+
+# For development and building
+pyinstaller>=5.0.0
